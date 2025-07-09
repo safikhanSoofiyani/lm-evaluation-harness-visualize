@@ -1,0 +1,11 @@
+{
+    "ai2_arc_arc-challenge": ["exact_match"],
+    "ai2_arc_arc-easy": ["exact_match"],
+    "boolq": ["exact_match"],
+    "commonsense_qa": ["exact_match"],
+    "mmlu": ["exact_match"],
+    "mmlu_pro": ["exact_match"],
+    "piqa": ["exact_match"],
+    "trivia_qa": ["exact_match"],
+    
+}
